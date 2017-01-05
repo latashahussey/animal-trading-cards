@@ -1,0 +1,48 @@
+/* Stylesheet for Animal Trading Cards
+Author: LaTasha Hussey
+Purpose: Front-End Developer Nanodegree Project
+*/
+
+body {
+    font-family: 'Raleway', sans-serif;
+    font-size: 13px;
+}
+
+#trading-card {
+    border: 1px solid #E4E4E4;
+    box-shadow: 5px 5px #E4E4E4;
+    padding: 10px;
+    width: 350px;
+}
+
+h1 {
+    font-family: 'Oswald', sans-serif;
+}
+
+img {
+    margin: auto;
+    padding-bottom: 20px;
+    width: 100%;
+}
+
+#trading-card-facts {
+    border: 1px solid #E4E4E4;
+    padding: 10px;
+}
+
+ul {
+    padding-left: 0;
+}
+
+ul li {
+    list-style: none;
+}
+
+.animal-list-items {
+    font-weight: bold;
+    line-height: 1.5em;
+}
+
+.source {
+    font-size: 10px;
+}
